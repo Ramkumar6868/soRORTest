@@ -1,0 +1,6 @@
+<%= form_tag({:action => 'parse_number'}, multipart: true) do %>
+	<p><label for="upload_file">Choose file of 7 segment numbers to convert in numbers</label>
+	<%= file_field 'file', 'datafile' %></p>
+	<%= submit_tag "Upload", data: { disable_with: false }%>
+<% end %>
+

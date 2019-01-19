@@ -1,0 +1,2 @@
+module MacroPoloHelper
+end
