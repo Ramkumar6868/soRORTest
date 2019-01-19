@@ -21,7 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions:
 ## run 'bundle install' 
-## open in browser following URL: localhost:3000/
+## open in browser following URL: https://localhost:3000/
 ## Upload file of 7 segment numbers to convert, you will get corresponding numbers file
 ## In microPolo tab you can see goal
 
